@@ -140,13 +140,13 @@
       "brochureUrl": ""
     },
     {
-      "name": "Sharda University Online",
+      "name": "Amity University Online",
       "logo": "",
       "poweredBy": "",
       "accreditations": "UGC | NIRF | NAAC A+ | NBA | INC | BCI | NCTE",
       "reviews": 450,
       "rating": 4.6,
-      "price": "37,500",
+      "price": "49750",
       "priceUnit": "Sem",
       "brochureUrl": ""
     },
@@ -169,17 +169,6 @@
       "reviews": 754,
       "rating": 4.5,
       "price": "45,000",
-      "priceUnit": "Sem",
-      "brochureUrl": ""
-    },
-    {
-      "name": "GLA University Online",
-      "logo": "",
-      "poweredBy": "",
-      "accreditations": "UGC | AICTE | AIU | NAAC A+ | NIRF | QS World University Rankings",
-      "reviews": 227,
-      "rating": 4.5,
-      "price": "25,750",
       "priceUnit": "Sem",
       "brochureUrl": ""
     },
