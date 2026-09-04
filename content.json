@@ -1,7 +1,7 @@
 {
   "site": {
     "brandName": "Counselex-Siksha",
-    "brandTagline": "Career Coach",
+    "brandTagline": "Unbiased Original Reviews",
     "callNowNumber": "+91 9027589486",
     "copyright": "Copyright © 2026. All Rights Reserved."
   },
@@ -37,6 +37,17 @@
       "reviews": 852,
       "rating": 4.7,
       "price": "37500",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "NIU University",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC-DEB | AICTE | NIRF | WES | QS World University Rankings | DEC",
+      "reviews": 752,
+      "rating": 4.9,
+      "price": "25000",
       "priceUnit": "Sem",
       "brochureUrl": ""
     },
