@@ -1,0 +1,264 @@
+{
+  "site": {
+    "brandName": "Counselex-Siksha",
+    "brandTagline": "Career Coach",
+    "callNowNumber": "+91 9027589486",
+    "copyright": "Copyright © 2026. All Rights Reserved."
+  },
+  "hero": {
+    "badge": "Online MBA",
+    "heading": "Online Degree Programs = Regular Degree (Campus Programs)",
+    "subheading": "UGC-Entitled & AICTE-Approved Programs with Equal Academic and Career Recognition.",
+    "searchPlaceholder": "Search Universities"
+  },
+  "form": {
+    "endpoint": "https://script.google.com/macros/s/AKfycbzd1hnm5a1R_5kC-oDxYuHTT5Q6OfV3ZmI896m0tL4TSbFJcqUgqyl_5iiET79u_zeT/exec",
+    "title": "Talk to our expert",
+    "subtitle": "Share your details and our counsellor will call you back.",
+    "successMessage": "Thank you! Our counsellor will reach out to you shortly."
+  },
+  "listings": [
+    {
+      "name": "Alliance University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC | NAAC A+ | AICTE | QS World University Rankings | NIRF | WES",
+      "reviews": 716,
+      "rating": 4.1,
+      "price": "40,000",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "Amity University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC-DEB | AICTE | NIRF | WES | QS World University Rankings | DEC",
+      "reviews": 278,
+      "rating": 4.7,
+      "price": "56,300",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "DY Patil University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC-DEB | AICTE | AIU | NIRF | WES | NAAC A++ | ISO",
+      "reviews": 252,
+      "rating": 4.7,
+      "price": "47,350",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "UPES Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC-DEB | NIRF | NAAC A | QS World University Rankings",
+      "reviews": 279,
+      "rating": 4.7,
+      "price": "43,750",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "LPU Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC-DEB | AICTE | AIU | NIRF | WES | NAAC A++ | SACSCOC",
+      "reviews": 276,
+      "rating": 4.7,
+      "price": "50,000",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "Manipal University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC | AICTE | NIRF | WES | NAAC A+ | NBA | QS World University Rankings",
+      "reviews": 250,
+      "rating": 4.7,
+      "price": "45,000",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "NMIMS Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "NAAC A++ | AICTE | BCI | NBA | UGC-DEB",
+      "reviews": 595,
+      "rating": 4.7,
+      "price": "55,000",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "Chandigarh University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC-DEB | AICTE | NIRF | WES | NAAC A+ | QS World University Rankings | ACCA",
+      "reviews": 281,
+      "rating": 4.7,
+      "price": "45,100",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "Bennett University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "AIU | BCI | UGC | NAAC A+",
+      "reviews": 753,
+      "rating": 4.4,
+      "price": "52,500",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "Amrita University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC | AICTE | NIRF | WES | NAAC A++ | Category-1 Autonomy",
+      "reviews": 251,
+      "rating": 4.5,
+      "price": "44,000",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "Vivekananda Global University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC | AICTE | AIU | NAAC A+",
+      "reviews": 437,
+      "rating": 4.6,
+      "price": "37,500",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "Sharda University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC | NIRF | NAAC A+ | NBA | INC | BCI | NCTE",
+      "reviews": 450,
+      "rating": 4.6,
+      "price": "37,500",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "Shoolini University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC | NIRF | NAAC | ISO",
+      "reviews": 328,
+      "rating": 4.7,
+      "price": "31,600",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "VIT Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "AICTE | UGC | NAAC A+",
+      "reviews": 754,
+      "rating": 4.5,
+      "price": "45,000",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "GLA University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC | AICTE | AIU | NAAC A+ | NIRF | QS World University Rankings",
+      "reviews": 227,
+      "rating": 4.5,
+      "price": "25,750",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "Uttaranchal University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC | AICTE | AIU | WES | NAAC A+ | ISO | PCI",
+      "reviews": 323,
+      "rating": 4.7,
+      "price": "24,500",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "Parul University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC | NIRF | NAAC A++",
+      "reviews": 354,
+      "rating": 4.6,
+      "price": "37,500",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "Sikkim Manipal University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC-DEB | NIRF | NAAC A+",
+      "reviews": 398,
+      "rating": 4.7,
+      "price": "30,000",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "Galgotias University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC | AICTE | NIRF | NAAC A+",
+      "reviews": 428,
+      "rating": 4.6,
+      "price": "19,050",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "Andhra University Online",
+      "logo": "",
+      "poweredBy": "",
+      "accreditations": "UGC | NIRF | NAAC A",
+      "reviews": 374,
+      "rating": 4.4,
+      "price": "16,300",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
+      "name": "Golden Gate University",
+      "logo": "",
+      "poweredBy": "Powered by UpGrad",
+      "accreditations": "AIU | WES | AACSB | WSCUC",
+      "reviews": 312,
+      "rating": 4.7,
+      "price": "4,30,000",
+      "priceUnit": "Full",
+      "brochureUrl": ""
+    },
+    {
+      "name": "OP Jindal Global University Online",
+      "logo": "",
+      "poweredBy": "Powered by UpGrad",
+      "accreditations": "UGC | AIU | NAAC A | AACSB | QS World University Rankings | BCI | DASCA",
+      "reviews": 321,
+      "rating": 4.5,
+      "price": "50,000",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    }
+  ]
+}
