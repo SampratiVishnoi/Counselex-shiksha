@@ -61,7 +61,7 @@ function cardTemplate(listing, index) {
         </div>
       </div>
 
-      <div class="hidden sm:flex col-span-3 lg:col-span-2 cursor-pointer flex-col items-end justify-center gap-2 talk-expert" data-index="${index}">
+      <a href="tel:${(CONTENT.site.callNowNumber || '').replace(/\s+/g, '')}" class="hidden sm:flex col-span-3 lg:col-span-2 cursor-pointer flex-col items-end justify-center gap-2">
         <div class="flex sm:flex-col items-center justify-center gap-2">
           <div class="flex -space-x-2">
             <span class="inline-block w-6 h-6 sm:w-8 sm:h-8 rounded-full bg-gray-200 border border-white"></span>
@@ -70,16 +70,16 @@ function cardTemplate(listing, index) {
           </div>
           <p class="text-xs font-medium text-gray-600 flex items-center gap-1 text-primary underline">Talk to our expert</p>
         </div>
-      </div>
+      </a>
     </div>
 
     <div class="col-span-12 flex flex-col sm:flex-row items-center justify-between gap-3 px-2 md:px-4">
-      <button class="sm:hidden talk-expert text-xs font-medium text-primary underline" data-index="${index}">Talk to our expert</button>
+      <a href="tel:${(CONTENT.site.callNowNumber || '').replace(/\s+/g, '')}" class="sm:hidden text-xs font-medium text-primary underline">Talk to our expert</a>
 
-      <a href="${listing.brochureUrl || '#'}" class="inline-flex items-center gap-2 border border-primary text-primary text-sm font-medium rounded-md px-4 py-2 hover:bg-primary/5">
+      <button class="apply-now inline-flex items-center gap-2 border border-primary text-primary text-sm font-medium rounded-md px-4 py-2 hover:bg-primary/5" data-index="${index}">
         Download Brochure
         <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
-      </a>
+      </button>
 
       <div class="flex items-center gap-3">
         <span class="text-center font-semibold">₹ ${listing.price}<span class="text-xs font-normal text-gray-500">/${listing.priceUnit}</span></span>
@@ -102,7 +102,7 @@ function renderListings(list) {
   noResults.classList.add('hidden');
   container.innerHTML = list.map((l, i) => cardTemplate(l, i)).join('');
 
-  container.querySelectorAll('.apply-now, .talk-expert').forEach(btn => {
+  container.querySelectorAll('.apply-now').forEach(btn => {
     btn.addEventListener('click', () => openModal(list[Number(btn.dataset.index)].name));
   });
 }
@@ -110,6 +110,20 @@ function renderListings(list) {
 function renderStatic() {
   const { site, hero } = CONTENT;
   document.getElementById('brandInitial').textContent = (site.brandName || '?').charAt(0).toUpperCase();
+  const brandLogo = document.getElementById('brandLogo');
+  const showLogo = () => {
+    brandLogo.classList.remove('hidden');
+    document.getElementById('brandInitial').classList.add('hidden');
+  };
+  // The <img src> is set in HTML, so by the time this runs the browser may have
+  // already finished loading it (e.g. from cache) — checking `complete` here
+  // catches that case instead of waiting on an `onload` that already fired.
+  if (brandLogo.complete && brandLogo.naturalWidth > 0) {
+    showLogo();
+  } else {
+    brandLogo.onload = showLogo;
+    brandLogo.onerror = () => brandLogo.classList.add('hidden');
+  }
   document.getElementById('brandName').textContent = site.brandName;
   document.getElementById('brandTagline').textContent = site.brandTagline || '';
   document.getElementById('callNowBtn').href = `tel:${(site.callNowNumber || '').replace(/\s+/g, '')}`;
