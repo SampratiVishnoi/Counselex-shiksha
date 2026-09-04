@@ -19,24 +19,24 @@
   },
   "listings": [
     {
-      "name": "Alliance University Online",
+      "name": "Gla ",
       "logo": "",
       "poweredBy": "",
       "accreditations": "UGC | NAAC A+ | AICTE | QS World University Rankings | NIRF | WES",
-      "reviews": 716,
-      "rating": 4.1,
-      "price": "40,000",
+      "reviews": 1087,
+      "rating": 4.8,
+      "price": "25,000",
       "priceUnit": "Sem",
       "brochureUrl": ""
     },
     {
-      "name": "Amity University Online",
+      "name": "Sharda University ",
       "logo": "",
       "poweredBy": "",
       "accreditations": "UGC-DEB | AICTE | NIRF | WES | QS World University Rankings | DEC",
-      "reviews": 278,
+      "reviews": 852,
       "rating": 4.7,
-      "price": "56,300",
+      "price": "37500",
       "priceUnit": "Sem",
       "brochureUrl": ""
     },
