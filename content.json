@@ -20,7 +20,7 @@
   "listings": [
     {
       "name": "Gla University ",
-      "logo": "",
+      "logo": "https://i.ibb.co/jvHqQ7fD/IMG-20260905-WA0014.jpg",
       "poweredBy": "",
       "accreditations": "UGC | NAAC A+ | AICTE | QS World University Rankings | NIRF | WES",
       "reviews": 1087,
@@ -31,7 +31,7 @@
     },
     {
       "name": "Sharda University ",
-      "logo": "",
+      "logo": "https://i.ibb.co/Gv6yQ0D2/sharda.jpg",
       "poweredBy": "",
       "accreditations": "UGC-DEB | AICTE | NIRF | WES | QS World University Rankings | DEC",
       "reviews": 852,
@@ -41,8 +41,19 @@
       "brochureUrl": ""
     },
     {
+      "name": "Noida International University",
+      "logo": "https://i.ibb.co/bjPPDc0s/Screenshot-2026-09-05-at-2-49-13-AM.png",
+      "poweredBy": "",
+      "accreditations": "UGC | NAAC A+ | AICTE | QS World University Rankings | NIRF | WES",
+      "reviews": 820,
+      "rating": 4.9,
+      "price": "21000",
+      "priceUnit": "Sem",
+      "brochureUrl": ""
+    },
+    {
       "name": "DY Patil University Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/SwsRkNp3/IMG-20260905-WA0011.jpg",
       "poweredBy": "",
       "accreditations": "UGC-DEB | AICTE | AIU | NIRF | WES | NAAC A++ | ISO",
       "reviews": 252,
@@ -53,7 +64,7 @@
     },
     {
       "name": "UPES Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/sddY2Shw/upes.jpg",
       "poweredBy": "",
       "accreditations": "UGC-DEB | NIRF | NAAC A | QS World University Rankings",
       "reviews": 279,
@@ -64,7 +75,7 @@
     },
     {
       "name": "LPU Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/XkXkpFg4/IMG-20260905-WA0019.jpg",
       "poweredBy": "",
       "accreditations": "UGC-DEB | AICTE | AIU | NIRF | WES | NAAC A++ | SACSCOC",
       "reviews": 276,
@@ -75,7 +86,7 @@
     },
     {
       "name": "Manipal University Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/0yGT643p/manipal.png",
       "poweredBy": "",
       "accreditations": "UGC | AICTE | NIRF | WES | NAAC A+ | NBA | QS World University Rankings",
       "reviews": 250,
@@ -86,7 +97,7 @@
     },
     {
       "name": "NMIMS Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/N6WCpP4F/nmims.png",
       "poweredBy": "",
       "accreditations": "NAAC A++ | AICTE | BCI | NBA | UGC-DEB",
       "reviews": 595,
@@ -97,7 +108,7 @@
     },
     {
       "name": "Chandigarh University Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/990mQgVM/CU.jpg",
       "poweredBy": "",
       "accreditations": "UGC-DEB | AICTE | NIRF | WES | NAAC A+ | QS World University Rankings | ACCA",
       "reviews": 281,
@@ -108,7 +119,7 @@
     },
     {
       "name": "Bennett University Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/qMBh3NSV/IMG-20260905-WA0021.jpg",
       "poweredBy": "",
       "accreditations": "AIU | BCI | UGC | NAAC A+",
       "reviews": 753,
@@ -119,7 +130,7 @@
     },
     {
       "name": "Amrita University Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/3Y7KmHCq/amrita.png",
       "poweredBy": "",
       "accreditations": "UGC | AICTE | NIRF | WES | NAAC A++ | Category-1 Autonomy",
       "reviews": 251,
@@ -130,7 +141,7 @@
     },
     {
       "name": "Vivekananda Global University Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/CK6H5vFD/IMG-20260905-WA0018.jpg",
       "poweredBy": "",
       "accreditations": "UGC | AICTE | AIU | NAAC A+",
       "reviews": 437,
@@ -141,7 +152,7 @@
     },
     {
       "name": "Amity University Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/ZpBqXMxg/IMG-20260905-WA0012.jpg",
       "poweredBy": "",
       "accreditations": "UGC | NIRF | NAAC A+ | NBA | INC | BCI | NCTE",
       "reviews": 450,
@@ -152,7 +163,7 @@
     },
     {
       "name": "Shoolini University Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/cXgbq1sq/IMG-20260905-WA0024.jpg",
       "poweredBy": "",
       "accreditations": "UGC | NIRF | NAAC | ISO",
       "reviews": 328,
@@ -163,7 +174,7 @@
     },
     {
       "name": "VIT Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/Zp2YzYSB/IMG-20260905-WA0023.jpg",
       "poweredBy": "",
       "accreditations": "AICTE | UGC | NAAC A+",
       "reviews": 754,
@@ -174,7 +185,7 @@
     },
     {
       "name": "Uttaranchal University Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/hxyX4ks4/IMG-20260905-WA0016.jpg",
       "poweredBy": "",
       "accreditations": "UGC | AICTE | AIU | WES | NAAC A+ | ISO | PCI",
       "reviews": 323,
@@ -185,7 +196,7 @@
     },
     {
       "name": "Parul University Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/WvZ6YDS7/IMG-20260905-WA0017.jpg",
       "poweredBy": "",
       "accreditations": "UGC | NIRF | NAAC A++",
       "reviews": 354,
@@ -196,7 +207,7 @@
     },
     {
       "name": "Sikkim Manipal University Online",
-      "logo": "https://i.ibb.co/XfwMtjm0/IMG-20260905-WA0009.jpg",
+      "logo": "https://i.ibb.co/xKrW6SP3/IMG-20260905-WA0009.jpg",
       "poweredBy": "",
       "accreditations": "UGC-DEB | NIRF | NAAC A+",
       "reviews": 398,
@@ -207,7 +218,7 @@
     },
     {
       "name": "Galgotias University Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/wh3kFDTB/IMG-20260905-WA0020.jpg",
       "poweredBy": "",
       "accreditations": "UGC | AICTE | NIRF | NAAC A+",
       "reviews": 428,
@@ -218,7 +229,7 @@
     },
     {
       "name": "Andhra University Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/8Dhchzgr/IMG-20260905-WA0022.jpg",
       "poweredBy": "",
       "accreditations": "UGC | NIRF | NAAC A",
       "reviews": 374,
@@ -229,7 +240,7 @@
     },
     {
       "name": "Golden Gate University",
-      "logo": "",
+      "logo": "https://i.ibb.co/Lz3VMzyv/IMG-20260905-WA0015.jpg",
       "poweredBy": "Powered by UpGrad",
       "accreditations": "AIU | WES | AACSB | WSCUC",
       "reviews": 312,
@@ -240,7 +251,7 @@
     },
     {
       "name": "OP Jindal Global University Online",
-      "logo": "",
+      "logo": "https://i.ibb.co/ym8qj87H/op-jindal.png",
       "poweredBy": "Powered by UpGrad",
       "accreditations": "UGC | AIU | NAAC A | AACSB | QS World University Rankings | BCI | DASCA",
       "reviews": 321,
@@ -251,7 +262,7 @@
     },
     {
       "name": "Banasthali",
-      "logo": "https://drive.google.com/file/d/1XXCPqa2JTdOWwdy8f9JOTI3E2j--dJsU/view?usp=drivesdk",
+      "logo": "https://i.ibb.co/RpqNj60H/IMG-20260905-WA0013.jpg",
       "poweredBy": "",
       "accreditations": "",
       "reviews": 12,
